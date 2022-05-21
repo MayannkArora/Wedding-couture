@@ -1,0 +1,12 @@
+.container, .hero {
+    background-color: black;
+    color: white;
+}
+
+.hero{display: flex;
+    justify-content: space-between;
+}
+
+.hero .right { gap: 10px;
+
+}
